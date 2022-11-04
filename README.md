@@ -12,8 +12,8 @@
 
  ## iPad view
     
-   ![Snapshot of entire page](https://github.com/govind-magar-999/webpage-assignment-12/blob/main/full-page-ipad.png)
+   ![Snapshot of entire page](https://github.com/govind-magar-999/webpage-assignment-12/blob/main/fullpage-ipad.png)
    
  ## Mobile view
     
-   ![Snapshot of entire page](https://github.com/govind-magar-999/webpage-assignment-12/blob/main/full-page-mobile.png)
+   ![Snapshot of entire page](https://github.com/govind-magar-999/webpage-assignment-12/blob/main/fullpage-mobile.png)
